@@ -23,7 +23,7 @@ function App() {
       <header className="App-header">
        
         <p>
-         Counter App (0-20)
+         Count App (0-20)
          <br></br>
         <div className='Result'> {count} </div>
         </p>
